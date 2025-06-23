@@ -21,9 +21,11 @@ export default function HomePage() {
 
       {/* About Section */}
       <section
+
         id="about"
         className="min-h-screen flex items-center justify-center px-4 bg-[#f4f1ff]  text-[#007fc8] scroll-mt-24"
         aria-labelledby="about-heading"
+
       >
         <div className="text-center max-w-3xl">
           <h2 id="about-heading" className="text-4xl font-bold mb-6">
