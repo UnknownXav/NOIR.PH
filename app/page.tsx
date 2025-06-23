@@ -17,8 +17,8 @@ export default function HomePage() {
 
       {/* About Section */}
       <section
-        id="about"
-        className="min-h-screen flex items-center justify-center bg-white text-[#007fc8] px-4"
+        id="about"00
+        className="min-h-screen flex items-center justify-center bg-[#f4f1ff] text-[#7fc8] px-4"
       >
         <div className="text-center max-w-3xl">
           <h2 className="text-4xl font-bold mb-6">About Us</h2>
