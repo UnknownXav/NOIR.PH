@@ -79,10 +79,8 @@ export default function HomePage() {
             About Us
           </h2>
           <p className="text-lg">
-            NOIR.PH is a digital gaming lifestyle brand that merges technology,
-            fashion, and esports. Our mission is to create an immersive
-            experience for every gamer by providing exclusive content,
-            community-driven events, and a premium platform for modern gamers.
+            NOIR.PH is a Philippine-based gaming community that unites players and creators through tournaments,
+            events, and content across games like MLBB, CODM, Roblox, Valorant, and more.
           </p>
         </div>
       </section>
